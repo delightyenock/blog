@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = "/media/delighty.png"
+icon = "/media/d.png"
 logo = "/media/delighty.png"
 image = "/media/delighty.png"
 color = ""
