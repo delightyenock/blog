@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/delighty.png"
 color = ""
 +++
-
