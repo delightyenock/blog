@@ -15,10 +15,7 @@ Zum Beispiel wenn man über eine gewisse Zeit verfolgt wird oder sich in der Nä
 
 * App erstellen
 
-  Programmieren
-
-  Website erstellen
-
-  Tracking, Rückverfolgen
-
-  Flyer, Marketing Tools
+  * Programmieren
+  * Website erstellen
+  * Tracking, Rückverfolgen
+  * Flyer, Marketing Tools
