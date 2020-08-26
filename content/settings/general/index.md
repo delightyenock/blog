@@ -1,6 +1,6 @@
 +++
 headless = true
-title = "Delighty Enock"
+title = "Delighty"
 description = "Blog"
 footerLeft = "blogg"
 footerRight = ""
