@@ -3,6 +3,7 @@ title = "Ideenentwicklung"
 date = "2020-09-02"
 draft = false
 pinned = false
+image = "light-bulb-3104355_960_720.jpg"
 +++
 Die Idee, die wir hatten ein Video mit einer Drohne zu machen, hat sich etwas weiterentwickelt. Wir wollen die Grundidee beibehalten aber je nach Möglichkeit oder Unmöglichkeit abändern. 
 
