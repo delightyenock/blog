@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/unbenannt.png"
-logo = "/media/delighty-1-.png"
+icon = "/media/delighty-1-.png"
+logo = "/media/d.png"
 image = ""
 color = ""
 +++
