@@ -5,6 +5,8 @@ draft = false
 pinned = false
 image = "2021.jpg"
 +++
+![](2021.jpg)
+
 **Web 2021** 
 
 Heute war ein angenehmer Nachmittag. Wir haben nebst über unser Projekt zu refreshen und besprechen auch die Pressekonferenz mitverfolgt. Wie erwartet geschah nichts aber es sei den Kantonen überlassen. Da wie wir kennen Bern gegen die Schulschliessungen ist, denke ich wird nicht grosses passieren.
