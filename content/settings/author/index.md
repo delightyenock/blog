@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Delighty E"
+name = "Shake Enock"
 image = ""
-email = "delightyenock@blog.ch"
+email = "shakenails@blog.ch"
 +++
